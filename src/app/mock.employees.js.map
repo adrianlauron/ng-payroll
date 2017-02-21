@@ -1,0 +1,1 @@
+{"version":3,"file":"mock.employees.js","sourceRoot":"","sources":["mock.employees.ts"],"names":[],"mappings":";AAEa,iBAAS,GAAoB;IACtC;QACI,EAAE,EAAE,CAAC;QACL,IAAI,EAAE,gBAAgB;QACtB,UAAU,EAAE,KAAK;QACjB,KAAK,EAAE,eAAe;KACzB;IACD;QACI,EAAE,EAAE,CAAC;QACL,IAAI,EAAE,OAAO;QACb,UAAU,EAAE,KAAK;QACjB,KAAK,EAAE,EAAE;KACZ;CACJ,CAAC"}

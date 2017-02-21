@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
     <h1>{{name}}</h1>
     </div>
     <navbar-app></navbar-app>
+    <employee-app></employee-app>
     `,
     styleUrls: ['styles.css']
 })
